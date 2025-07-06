@@ -1,0 +1,28 @@
+# Core data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistical modeling & machine learning
+scipy
+scikit-learn
+statsmodels
+category_encoders
+
+# Data quality & exploration
+missingno
+
+# Interactive environment
+#jupyter
+#ipython
+
+# Optional I/O formats
+openpyxl
+pyarrow
+
+# Utilities
+tqdm
